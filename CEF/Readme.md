@@ -1,0 +1,1 @@
+Bu proje Chromium tabanlı tarayıcılarda bulunan uzantıların araştırılmasını kolaylaştırmak amacı ile geliştirilmiştir. Uygluma temel olarak uzantı idlerini isim ve url bilgisi olarak verileri zenginleştirmektedir. Örnek çıktılarını merak ederseniz eğer bu repo içerisinde bulabilirsiniz. İyi günlerde kullanın :)
